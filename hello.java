@@ -2,7 +2,9 @@ class Hello
 {
 Public static void main(String args[])
 {
-System.out.println(“hello from master central repo”);
+
+System.out.println(“hello from master latest main ”);
+
 }
 }
 
